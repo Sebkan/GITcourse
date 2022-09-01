@@ -6,6 +6,13 @@
 
    public void logowanie Google() {
         System.out.println("Podaj email z gmaila");
-        System.out.println("Podaj hasło");
+	  System.out.println("Podaj  hasło");	
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+public void logowanie() {
+        System.out.println("Podaj nazwę użytkownika Microsoft");
+        System.out.println("Podaj  hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
